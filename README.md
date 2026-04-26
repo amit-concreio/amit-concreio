@@ -24,12 +24,44 @@
 
 ## 🛠️ Tech Stack
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white) |
-| **AI / LLM** | ![LangChain](https://img.shields.io/badge/-🦜_LangChain-1C3C3C) ![LangGraph](https://img.shields.io/badge/-🕸️_LangGraph-2D1B69) ![Ollama](https://img.shields.io/badge/-🦙_Ollama-1A3A1A) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
-| **DevOps** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) |
+<div align="center">
+
+### 💻 Frontend & Backend
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,angular,ts,js,nodejs,nestjs,cpp,express&perline=8" />
+  </a>
+</p>
+
+### 🤖 AI / LLM Orchestration
+![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge) 
+![LangGraph](https://img.shields.io/badge/🕸️_LangGraph-2D1B69?style=for-the-badge) 
+![Ollama](https://img.shields.io/badge/🦙_Ollama-1A3A1A?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### ☁️ Infrastructure & Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,gcp,git,github,vscode,linux&perline=6" />
+  </a>
+</p>
+
+</div>
+
+---
+
+## 🛰️ Current Focus
+<div align="center">
+
+| Status | Activity |
+| :---: | :--- |
+| 🧪 | **Experimenting with:** Multi-agent LLM systems using LangGraph |
+| ⚡ | **DSA Progress:** Refining Dynamic Programming & Graph Algorithms |
+| ☁️ | **Deployment:** Optimizing CI/CD pipelines for containerized NestJS apps |
+
+</div>
+
+---
 
 ---
 
